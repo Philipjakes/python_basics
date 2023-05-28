@@ -1,4 +1,4 @@
-dictionary store date value in key:value pairs,which is ordered,changable and does not allow
+dictionaries store date value in key:value pairs,which is ordered,changable and does not allow
 duplicate values.
 the values in dictionary items can be of any data type(string,boolean,list)
 point:dictionaries work with key value.
